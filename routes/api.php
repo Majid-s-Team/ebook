@@ -12,7 +12,7 @@ use App\Http\Controllers\API\BookCategoryController;
 use App\Http\Controllers\API\ReelController;
 use App\Http\Controllers\API\ReelInteractionController;
 use App\Http\Controllers\API\BookController;
-use App\Http\Controllers\Api\{
+use App\Http\Controllers\API\{
     CartController,
     OrderController,
     PromoCodeController,
